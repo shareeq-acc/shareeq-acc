@@ -11,7 +11,6 @@
 - I am a **Software Engineering Junior** at **FAST NUCES**
 - Passionate about **backend development** and **DevOps**
 - Love building **scalable systems** with **TypeScript**
-- **CGPA**: Working hard to maintain excellence
 - I'm enthusiastic about developing software solutions that are both **innovative** and **production-ready**
 - Currently exploring **cloud-native architectures** and **containerization**
 
@@ -62,19 +61,10 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shareeq-acc&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shareeq-acc&theme=radical&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shareeq-acc&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 </div>
 
-## 🏆 Top Contributed Repo
-
-<div align="center">
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=shareeq-acc&limit=1&theme=radical&hide_border=true&combine_all_yearly_contributions=true)
-
-</div>
 
 ## 🎯 What I'm Building
 
@@ -136,8 +126,6 @@ console.log('Building the future, one commit at a time 🚀');
 <div align="center">
 
 **💡 "Curiosity drives innovation | Scale drives impact | Learning never stops"**
-
-![Profile Views](https://komarev.com/ghpvc/?username=shareeq-acc&color=blueviolet&style=flat-square&label=Profile+Views)
 
 ⭐️ From [shareeq-acc](https://github.com/shareeq-acc)
 
