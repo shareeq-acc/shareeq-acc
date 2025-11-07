@@ -71,6 +71,6 @@ console.log('Building the future, one commit at a time 🚀');
   
 **💡 "Curiosity drives innovation | Scale drives impact | Learning never stops"**
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=shareeq-acc&color=blueviolet&style=flat-square)
 
 </div>
