@@ -27,8 +27,6 @@ Software Engineering Junior @ FAST NUCES | Passionate about building scalable ba
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shareeq-acc&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shareeq-acc&theme=radical&hide_border=true)
-
 </div>
 
 ---
@@ -65,7 +63,7 @@ console.log('Building the future, one commit at a time 🚀');
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.shareeqrashid2@gmail.com)
 
 ---
 
