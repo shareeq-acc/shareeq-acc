@@ -1,16 +1,78 @@
-## Hi there 👋
+# 👋 Hey there, I'm Shareeq
 
-<!--
-**shareeq-acc/shareeq-acc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Backend Developer | TypeScript Enthusiast | DevOps Explorer
 
-Here are some ideas to get you started:
+Software Engineering Junior @ FAST NUCES | Passionate about building scalable backends and diving deep into DevOps. I'm a curious learner who loves tackling complex problems and turning coffee into code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tech Stack
+
+**Languages & Frameworks**
+- **Primary:** TypeScript, Node.js
+- **Backend:** NestJS, Express.js, Spring Boot
+- **Frontend:** Shopify Liquid
+
+**DevOps & Tools**
+- Docker, CI/CD, Cloud Infrastructure
+- Currently leveling up my DevOps game 🎯
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+### 🎯 What I Do
+
+```typescript
+const developer = {
+  education: 'Software Engineering @ FAST NUCES',
+  year: 'Junior',
+  focus: ['Backend Development', 'DevOps', 'System Design'],
+  backend: ['NestJS', 'Express', 'Spring Boot'],
+  frontend: ['Shopify Liquid', 'Full-Stack Basics'],
+  devops: ['Docker', 'CI/CD', 'Cloud Infrastructure'],
+  mindset: 'Curious learner | Problem solver | Scale enthusiast'
+};
+
+console.log('Building the future, one commit at a time 🚀');
+```
+
+---
+
+### 🌱 Currently
+
+- 🎓 Software Engineering Junior at FAST NUCES
+- 📚 Deep diving into DevOps practices and tools
+- 🏗️ Building scalable backend architectures with TypeScript
+- 🔧 Exploring cloud-native technologies and infrastructure
+- 💡 Always curious, always learning something new
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+---
+
+<div align="center">
+  
+**💡 "Curiosity drives innovation | Scale drives impact | Learning never stops"**
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+
+</div>
